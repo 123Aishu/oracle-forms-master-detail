@@ -4,10 +4,10 @@ Overview
 This repository contains Oracle Forms development tasks completed using the HR schema. The project demonstrates key Oracle Forms concepts such as master-detail relationships, LOVs, triggers, sequences, calculated fields, summary columns, calendar integration, and menu customization.
 
 ## Technologies Used
-Oracle Forms
-Oracle Database
-PL/SQL
-HR Schema
+* **Oracle Forms Builder**
+* **Oracle Database**
+* **PL/SQL**
+* **HR Schema**
 
 ## Features Implemented
 ### Task 1 - Create Form
