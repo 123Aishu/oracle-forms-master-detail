@@ -31,17 +31,6 @@ Displayed department-wise salary totals.
 Generated Employee ID and Department ID using sequences and Pre-Insert trigger.
 ### Task 8 - Calendar Integration
 Added calendar functionality for Hire Date.
-### Task 9 - Manager LOV
-Displayed only employees who are managers.
-### Task 10 - Department Creation
-Created a new department.
-### Task 11 - Department Deletion Validation
-Checked deletion restrictions for departments with assigned employees.
-### Task 12 - Formatting
-Date Format: DD-MM-YYYY
-Number Format: 99,99,999.99
-### Task 13 - Property Classes
-Applied appropriate property classes to form items.
-### Task 14 - Menu Integration
+### Task 9 - Menu Integration
 Added forms and functions to submenu.
 Attached submenu to Batch4/Batch5 menu structure.
